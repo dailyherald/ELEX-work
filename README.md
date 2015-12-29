@@ -14,3 +14,4 @@ X Bring the data into Panda dataframes
 - Write the JSON for use in a jquery/javascript-powered web app that's also mobile-ready.
 		Writing the JSON is simple. The web app ...
 
+My timeframe for all this is to use our existing infrastructure to power the new mobile-ready web app for the Illinois primary in March, but have a testing site up and running at the same time to see how all this works live. Then go all in for the November election. 
