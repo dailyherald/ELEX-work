@@ -13,5 +13,6 @@ The Jupyter notebook included here will show my progress as I ...
 		I want one row per candidate, with returns and precinct info for total and a few counties, instead of multiple rows per candidate.
 - Write the JSON for use in a jquery/javascript-powered web app that's also mobile-ready.
 		Writing the JSON is simple. The web app ...
+- Figure out how to have the script excute and update the json every few minutes.
 
 My timeframe for all this is to use our existing infrastructure to power the new mobile-ready web app for the Illinois primary in March, but have a testing site up and running at the same time to see how all this works live. Then go all in for the November election. 
