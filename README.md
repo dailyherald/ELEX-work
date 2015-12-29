@@ -5,11 +5,11 @@ I'm just getting started learning how to work with APIs and AP election data, an
 
 The Jupyter notebook included here will show my progress as I ...
 
-X Bring the data into Panda dataframes
+- (X) Bring the data into Panda dataframes. 
 		Finding the solution turned out to be very simple, once I got past my Jquery classes/Python classes mental block. Found the [simple answer here](https://stackoverflow.com/questions/34065361/python-class-attributes-to-pandas-dataframe).
-- Join race results with races
+- Join race results with races. 
 		Joining isn't a problem, but I don't want/need all the information in the race rows so I'll create a new dataframe with only the info I want.
-- Create a dataframe with total returns and a small number of counties within a state (we report on six in Illinois)
+- Create a dataframe with total returns and a small number of counties within a state (we report on six in Illinois). 
 		I want one row per candidate, with returns and precinct info for total and a few counties, instead of multiple rows per candidate.
 - Write the JSON for use in a jquery/javascript-powered web app that's also mobile-ready.
 		Writing the JSON is simple. The web app ...
